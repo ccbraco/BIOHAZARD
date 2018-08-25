@@ -1,37 +1,82 @@
-## Faustine Louis - WELCOMEDEV 
+<!DOCTYPE html>
+<html>
+	<head>
+			<meta charset="utf-8"/>
+			<link rel="stylesheet" href="style.css" />
+<header>
+	
+		<title>Les insectes en cuisine</title>
+	
+	</head>
 
-You can use the [editor on GitHub](https://github.com/ccbraco/welcomedev-flouis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+	<body>
+	<div class="titre">
+		<h1>La cuisine des insectes</h1>
+	</div>
+	<div class="qui">	
+		<h4>par STRIDULI, agence de communication scientifique</h4>
+	</div>
+	<div class="lien">	
+		<a href="#site_web_ancre"><span class="clignote">aller vers site web</span></a>
+	</div>
+</header>
+		<br>
+		<br>
+		
+<section>	
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	<p class="intro"><a href="images/logo.png"><img src="images/logomini.png" class="imageflottante" alt="logo pour manger" title="clique pour voir plus grand" /></a>Les insectes comestibles sont-ils le futur de l’alimentation ? Épicuriens gourmands, aventuriers ou sceptiques invétérés, on finira tous par y goûter. Petit guide pour se mettre à l'entomophagie</p>
 
-### Markdown
+</section>	
+		
+<section>
+		<h2 class="dessous">Grillons au lait de coco</h2><br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	
 
-```markdown
-Syntax highlighted code block
+					<p> <mark>Pour 4 personnes </mark><br/><br>
+	<div id="ingredients">
+		<figure>
+			<img src="images/grillons.jpg" alt="assiette de grillons" />
+			<figcaption>grillons séchés</figcaption>
+		</figure>
+	<aside>		
+		<ul>
+			<li><span class="insecte">40 grillons</span></li>
+			<li>20cl de lait de coco</li>
+			<li>2 citrons</li>
+			<li>1 petit oignon blanc</li>
+			<li>1 tomate</li>
+			<li>1 moitié de concombre</li>
+			<li>1 moitié de poivron vert</li>
+			<li>sel poivre</li>
+		</ul>
+	</aside>	
+	</div>
+	<article>
+<p><em>les premières étapes de la recette</em></p>
+		
+		<ol class="étapes">
+			<li>Couper la tomate en dés</li>
+			<li>Emincer finement le concombre et la moitié du poivron vert</li>
+			<li>Hacher l'oignon</li>
+			<li>bien mélanger</li>
+		</ol>
+		<p> Disposer sur un plat les grillons arrosés de jus de citron.<br>
+			Poivrer et laisser mariner 10 min au frigo.<br>
+			Egoutter les grillons et arroser du jus du deuxième citron.<br>
+		Ajouter les crudités et le lait de coco, le concombre, le sel. Mettre 1h au frais avant de servir.</p>
+	</article>
+</section>
+		
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ccbraco/welcomedev-flouis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<nav>
+<h3>pour cuisiner d'autres insectes, par ici </h3>
+<a href="criquets panés.html"> <strong>autre recette</strong>  </a>
+</nav>
+<footer>
+		<h3 id="site_web_ancre"><em>le site de striduli c'est ici</em></h3>
+<a href="https://striduli.wixsite.com/striduli" title= "ça déchire grave">STRIDULI</a> <br>
+</footer>
+	</body>
+</html>
