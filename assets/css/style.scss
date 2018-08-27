@@ -2,10 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-hearder
+body
 {
-	display: flex;
-	justify-content: space-around;
-	flex-wrap: wrap;
-	align-items: center;
+	background-color: #D8BFD8
 }
