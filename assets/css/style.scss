@@ -1,8 +1,7 @@
 ---
 ---
 
-@import "{{ jekyll-theme-slate }}";
-body
+@import "{{theme.slate}}";
 h1
 {
 color: red;
