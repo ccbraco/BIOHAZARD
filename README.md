@@ -7,7 +7,7 @@ Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon p
 
 - **2006** _Master d'infectiologie à l'université François Rabelais, Tours._
 - **2008** _Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours._
-- **2012** _Attaché temporaire d'enseignement et rcherche à l'université François Rabelais de Tours._
+- **2012** _Attaché temporaire d'enseignement et recherche à l'université François Rabelais de Tours._
 - **2013** _Chercheur Contractuel à l'Institut Pasteur, Paris._
 
 'red' mais les sciences ne sont rien si on ne les partage pas ! 
