@@ -1,14 +1,16 @@
 ## Qui est Faustine LOUIS ?
 
-Amoureuse des sciences depuis toujours et curieuse de comprendre comment fonctionnait le monde qui m'entoure, j'ai choisi un parcourt universitaire tourné vers le monde de l'infiniment petit. Ce monde, c'est l'**infectiologie**! Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant.
+Amoureuse des sciences depuis toujours et curieuse de comprendre comment fonctionnait le monde qui m'entoure, j'ai choisi un parcourt universitaire tourné vers le monde de l'infiniment petit. Ce monde, c'est l'**infectiologie**!  
+Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant.
 
-### Mon parcours 
+### Mon parcours pro
 
-- Master d'infectiologie à l'université François Rabelais, Tours.
-- Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.
-- Chercheur Contractuel à l'Institut Pasteur, Paris.
+- **2006** _Master d'infectiologie à l'université François Rabelais, Tours._
+- **2008** _Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours._
+- **2012** _Attaché temporaire d'enseignement et rcherche à l'université François Rabelais de Tours._
+- **2013** _Chercheur Contractuel à l'Institut Pasteur, Paris._
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+'red' mais les sciences ne sont rien si on ne les partage pas ! 
 
 ```markdown
 Syntax highlighted code block
