@@ -6,13 +6,12 @@ Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon p
 #### Mais les sciences ne sont rien si on ne les partage pas ! 
 
 
-Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon parcours, j'ai cherché à comprendre comment ils évoluent, se multiplient et infectent un organisme vivant.
 
 
 
 ```markdown
 Syntax highlighted code block
-# Header 1
+#Header 1
 ## Header 2
 ### Header 3
 
