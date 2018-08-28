@@ -11,23 +11,26 @@ Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon p
 
 
 ```markdown
-### Mon parcours pro
+Syntax highlighted code block
+# Header 1
+## Header 2
+### Header 3
+
+# Mon parcours pro
 
 - **2006-2008** _Master d'infectiologie à l'université François Rabelais, Tours._
 - **2008-2013** _Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours._
 - **2012-2013** _Attaché temporaire d'enseignement et recherche à l'université François Rabelais de Tours._
 - **2013-2016** _Chercheur Contractuel à l'Institut Pasteur, Paris._
 
+# Mon parcours citoyen 
 
 - **2003-2007** _Bénévole association naturaliste NATRIX, Tours._
 - **2007-2008** _Bénévole Club CNRS Science pop', Tours._
 - **2008- aujourd'hui** _Bénévole et administratrice de l'Association les Petits Débrouillards, Tours._
 - **2018** _Créatrice de l'agence d'animation et de communication scientifique STRIDULI, Tours._
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+
 
 - Bulleted
 - List
