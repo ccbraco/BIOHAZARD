@@ -11,11 +11,9 @@ Virus, bactéries, parasites, ils n'ont plus de secret pour moi. A travers mon p
 
 ```markdown
 Syntax highlighted code block
-#Header 1
-## Header 2
-### Header 3
 
-# Mon parcours pro
+
+<h1>Mon parcours pro</h1>
 
 - **2006-2008** _Master d'infectiologie à l'université François Rabelais, Tours._
 - **2008-2013** _Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours._
