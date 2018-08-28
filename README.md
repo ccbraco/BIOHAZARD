@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Qui est Faustine LOUIS ?
 
-You can use the [editor on GitHub](https://github.com/ccbraco/BIOHAZARD/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Amoureuse des sciences depuis toujours et curieuse de comprendre comment fonctionnait le monde qui m'entoure, j'ai choisi un parcourt universitaire tourné vers le monde de l'infiniment petit. Ce monde, c'est l'infectiologie ! Virus, bactéries, parasites, ils n'ont plus de secret pour moi. Comprendre comment ils évoluent, se multiplient et infectent un organisme vivant était pour moi un ensemble d'énigmes que je devaient résoudre. Mes préférés, les virus ! Pourquoi ? 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Mon parcourt et mes expériences
 
-### Markdown
+- Master d'infectiologie à l'université François Rabelais, Tours.
+- Doctorat de virologie à l'Institut de Recherche sur la Biologie de l'Insecte, Tours.
+- Chercheur Contractue à l'Institut Pasteur, Paris.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
